@@ -70,6 +70,10 @@ span {
   padding-top: 10px;
 }
 
+.light {
+   font-weight: lighter;
+}
+
 img {
   display: inline-block;
   margin: 0 40px;
